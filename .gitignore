@@ -36,3 +36,12 @@ dist-ssr
 .env
 .env.*
 !.env.example
+
+#Devin/Windsurf
+.devin
+.windsurf
+
+# Pentest/E2E artifacts
+reports/
+playwright-report/
+test-results/
